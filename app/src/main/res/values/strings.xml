@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Arin Track</string>
+    <string name="accessibility_service_description">Arin Track monitors vertical scroll gestures in Instagram Reels and YouTube Shorts to display a mindful floating counter and track digital habits. 100% offline and private.</string>
+    <string name="widget_description">Shows today's Reels count, screen time, and mindful goal progress.</string>
+    <string name="notification_channel_name">Arin Track Limits</string>
+    <string name="notification_channel_desc">Alerts when nearing your daily Reel cap.</string>
+</resources>
